@@ -25,10 +25,10 @@
         <activity
             android:name="com.example.listmaker.DisplayListActivity"
             android:label="@string/title_activity_display_list"
-            android:parentActivityName="com.example.listMaker.MainActivity" >
+            android:parentActivityName="com.example.listmaker.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.listMaker.MainActivity" />
+                android:value="com.example.listmaker.MainActivity" />
         </activity>
     </application>
 
